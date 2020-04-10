@@ -3031,7 +3031,7 @@ var staticRenderFns = [
             [
               _c("img", {
                 attrs: {
-                  src: ./../assets/linkedin.png",
+                  src: "./../assets/linkedin.png",
                   width: "50px",
                   height: "50px",
                   alt: ""
