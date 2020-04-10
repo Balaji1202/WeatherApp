@@ -1,0 +1,10 @@
+body{
+	height:100vh;
+	background:linear-gradient(#4c4973,#fff,#4c4973)
+}
+html{
+	scroll-behavior:smooth;
+	margin:0;
+	padding:0;
+	box-sizing:border-box
+}
