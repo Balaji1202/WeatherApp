@@ -5,6 +5,7 @@
 			<h3>
 				<p>Wanna say something, or grab a cup of coffee, or discuss on any projects,</p>
 				<p>Connect with me on</p>
+				<a href="https://twitter.com/balaji_twoby12" target="_blank"><img src="./../../assets/twitter.png" width="50px" height="50px" alt=""></a>
 				<a href="https://www.linkedin.com/in/balaji-saravanan/" target="_blank"><img src="./../../assets/linkedin.png" width="50px" height="50px" alt=""></a>
 				<a href="mailto:balajilitsv@gmail.com" target="_blank"><img src="./../../assets/mail.png" width="40px" height="50px" alt=""></a>
 			</h3>
